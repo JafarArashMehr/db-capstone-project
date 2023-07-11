@@ -1,2 +1,0 @@
-CREATE PROCEDURE CancelBooking(IN BookingID INT)
-DELETE FROM Booking;
